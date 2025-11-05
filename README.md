@@ -171,4 +171,4 @@ The client implements the exact NERIS OAuth 2.0 specification with WAF-friendly 
 
 # About NERIS
 
-NERIS is the National Emergency Response Inforation System, learn more at https://neris.fsri.org
+NERIS is the National Emergency Response Information System, learn more at https://neris.fsri.org
