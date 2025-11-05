@@ -90,3 +90,7 @@ After authentication, you can test other endpoints:
 - Check that the API base URL is correct
 - Verify network connectivity to the API endpoints
 - Review error messages for specific authentication issues
+
+# About NERIS
+
+NERIS is the National Emergency Response Inforation System, learn more at https://neris.fsri.org
