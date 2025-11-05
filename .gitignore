@@ -1,0 +1,15 @@
+# Ignore configuration files containing credentials
+config.ps1
+secrets.ps1
+*.secret
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*~
+
+# Ignore OS generated files
+Thumbs.db
+.DS_Store
